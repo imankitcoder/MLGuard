@@ -123,5 +123,5 @@ requirements.txt
 
 ## Author
 
-**Ankit**, data science learner from Bengaluru. Built with AI assistance as a mentor; I ran and tested every part and I can explain how each function works.
+**Ankit**, data science learner from Bengaluru. This is a learning project: I tested every part, wrote the 25 tests, and I can explain how each function works.
 GitHub: [imankitcoder](https://github.com/imankitcoder)
